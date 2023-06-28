@@ -81,3 +81,7 @@ fallow https://linuxhint.com/install_aws_cli_ubuntu/ or fallowing
     ```sh
      kops delete cluster dev.k8s.valaxy.in --yes
     ```
+
+
+
+https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/
