@@ -79,7 +79,7 @@ fallow https://linuxhint.com/install_aws_cli_ubuntu/ or fallowing
     ```
  1. To delete cluster
     ```sh
-     kops delete cluster dev.k8s.valaxy.in --yes
+     kops delete cluster bharath6249.in --yes
     ```
 
 
