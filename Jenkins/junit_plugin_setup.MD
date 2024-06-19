@@ -1,7 +1,7 @@
 # Configure Junit pulgin on Jenkins
 Junit is one of the most popular unit testing tool for java. install plugin to start with this 
 
-#### Follow this artical in **[YouTube]()**
+
 
 #### Prerequisites
 1. Jenkins server **[Get Help Here](https://www.youtube.com/watch?v=M32O4Yv0ANc)
